@@ -11,7 +11,7 @@ yarn dev
 ```
 
 Создать файл .env.local в корне проекта и указать Api key<br>
-Этот ключ можно получить на сайте [http://themoviedb.org](themoviedb.org)
+Этот ключ можно получить на сайте [themoviedb.org](http://themoviedb.org)
 ```bash
 API_KEY=00000000000000000000000000000000
 ```
