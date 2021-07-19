@@ -10,8 +10,8 @@ npm run dev
 yarn dev
 ```
 
-Создать файл .env.local в корне проекта и указать Api ke.
-Этот ключ можно получить на сайте themoviedb.org
+Создать файл .env.local в корне проекта и указать Api key<br>
+Этот ключ можно получить на сайте [http://themoviedb.org](themoviedb.org)
 ```bash
 API_KEY=00000000000000000000000000000000
 ```
