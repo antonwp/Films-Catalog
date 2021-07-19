@@ -1,4 +1,4 @@
-## Демо: [films-catalog-five.vercel.app](https://films-catalog-five.vercel.app)
+## Демо на vercel.app: [bit.ly/3kzBQ0k](https://bit.ly/3kzBQ0k)
 
 Это мой учебный проект, который выводит каталог фильмов из базы данных по API.<br>
 Технологии: React, Next.js, Tailwind CSS
